@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Sayarah",
+    "description": "",
+    "version": "mwhgkmy5",
+    "id": "cl11l6r2331239501s6aydvuvlq",
+    "url": "https://app.amplication.com/cl11l6r2331239501s6aydvuvlq",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl11l6r2331239501s6aydvuvlq",
+      "authProvider": "Jwt"
+    }
+  }
+}
